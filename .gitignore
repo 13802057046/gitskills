@@ -1,0 +1,31 @@
+*.db
+# Emacs
+*~
+
+# Mac OS X
+.DS_Store
+
+# vim
+*.swp
+
+# log
+*.log
+
+*.tmp
+
+.project
+*.bak
+*.swo
+
+*.iml
+.idea
+
+tags
+*.tar
+
+target/
+
+*.rej
+/DEPLOY/
+/CONFIGBAK/
+/copyToDeploy.bat
